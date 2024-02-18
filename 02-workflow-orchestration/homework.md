@@ -16,7 +16,7 @@
 - What are the existing values of VendorID in the dataset?
 - Answer: 1 or 2
 
-### Question 5. Data Transformation
+### Question 5. Data Transformatigion
 - How many columns need to be renamed to snake case?
 - Answer: 4
 
