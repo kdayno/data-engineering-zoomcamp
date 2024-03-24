@@ -1,5 +1,0 @@
-WITH source AS (
-    SELECT * FROM {{ source('staging', 'green_taxi_trips') }}
-),
-
-SELECT * FROM source
